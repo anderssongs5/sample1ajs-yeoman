@@ -1,0 +1,1 @@
+# sample1ajs-yeoman
