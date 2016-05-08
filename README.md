@@ -9,13 +9,15 @@ npm install -g grunt-cli bower
 npm install
 bower install
 
-if there is error, try
+When error, try
 git config --global url.https://github.com/.insteadOf git://github.com/
 Before, bower install again
 
 ## Build & development
 
 Run `grunt` for building and `grunt serve` for preview.
+
+Run `grunt build:dist` for building and to distribuite
 
 ## Testing
 
